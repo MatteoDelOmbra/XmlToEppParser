@@ -1,0 +1,148 @@
+[INFO]
+"1.11",3,1250,"Subiekt GT","GT","baza","Firma przyk³adowa systemu InsERT GT","Wroc³aw","54-445","B³awatkowa 25/3","111-111-11-11","MAG","G³ówny","Magazyn g³ówny",,1,20250120084236,20250120084236,"Szef",20250120084236,"Polska","PL","1111111111",0
+
+[NAGLOWEK]
+"FZ",1,0,3,"234234234234234",,"3/2025",,,,,"NOVUM","Drogeria NOVUM","Drogeria NOVUM","Sosnowiec","65-465","Kolorowa  98/3","5959960167","Zakup","Zakup towarów lub us³ug","Sosnowiec",20250117000000,20250117000000,20250117000000,1,1,"Cena ostatniej dost.",1.0000,0.2300,1.2300,0.0000,,0.0000,,20250117000000,0.0000,1.2300,0,0,1,3,";Irena Ko³odziej","Szef",,0.0000,0.0000,"PLN",1.0000,,,,,1,0,0,,0.0000,,0.0000,"Polska","PL",0
+
+[ZAWARTOSC]
+1,2,,1,1,0,1,0.0000,0.0000,"szt.",1.0000,1.0000,0.0000,1.0000,1.2300,23.0000,1.0000,0.2300,1.2300,0.0000,,"towar"
+
+[NAGLOWEK]
+"FZ",1,0,4,"123312",,"4/2025",,,,,"ALFA","Alfa - Tech s.c.","Alfa - Tech s.c.W³adys³aw Kozak","Wa³brzych","44-738","Mêckiego  83","5699590695","Zakup","Zakup towarów lub us³ug","Wa³brzych",20250117000000,20250117000000,20250117000000,1,1,"Cena ostatniej dost.",100.0000,23.0000,123.0000,0.0000,,0.0000,,20250117000000,123.0000,123.0000,0,0,1,3,";Aldona WoŸniak","Szef",,0.0000,0.0000,"PLN",1.0000,,,,,1,0,0,,0.0000,,0.0000,"Polska","PL",0
+
+[ZAWARTOSC]
+1,2,,1,1,0,1,0.0000,0.0000,"szt.",1.0000,1.0000,0.0000,100.0000,123.0000,23.0000,100.0000,23.0000,123.0000,0.0000,,"towar"
+
+[NAGLOWEK]
+"FZ",1,0,5,"2313123",,"5/2025",,,,,"ERIE","Hurtownia ERIE","Hurtownia ERIE, Danuta Ko³odziejczyk","Bydgoszcz","14-622","Jagielloñska 66/22","2122189241","Zakup","Zakup towarów lub us³ug","Bydgoszcz",20250117000000,20250117000000,20250117000000,1,1,"Cena ostatniej dost.",200.0000,46.0000,246.0000,0.0000,,0.0000,,20250117000000,0.0000,246.0000,0,0,1,3,";Natalia Dudek","Szef",,0.0000,0.0000,"PLN",1.0000,,,,,0,0,0,,0.0000,,0.0000,"Polska","PL",0
+
+[ZAWARTOSC]
+1,2,,1,1,0,1,0.0000,0.0000,"szt.",1.0000,1.0000,0.0000,200.0000,246.0000,23.0000,200.0000,46.0000,246.0000,0.0000,,"towar"
+
+[NAGLOWEK]
+"FZ",1,0,7,"212331123",,"7/2025",,,,,"ROGALIK","Piekarnia ROGALIK","Piekarnia ROGALIK","Wroc³aw","54-572","Leœna  45","3321409289","Zakup","Zakup towarów lub us³ug","Wroc³aw",20250117000000,20250117000000,20250117000000,1,1,"Cena ostatniej dost.",100.0000,23.0000,123.0000,0.0000,,0.0000,,20250117000000,123.0000,123.0000,0,0,1,3,";Marian Weso³owski","Szef",,0.0000,0.0000,"PLN",1.0000,,,,,0,0,0,,0.0000,,0.0000,"Polska","PL",0
+
+[ZAWARTOSC]
+1,2,,1,1,0,1,0.0000,0.0000,"szt.",10.0000,10.0000,0.0000,10.0000,12.3000,23.0000,100.0000,23.0000,123.0000,0.0000,,"towar"
+
+[NAGLOWEK]
+"FZ",1,0,8,"53487453",,"8/2025",,,,,"DANUTA","Sklep przemys³owy DANUTA","Sklep przemys³owy DANUTA","£ódŸ","46-527","Piesza  26/3","8435667543","Zakup","Zakup towarów lub us³ug","£ódŸ",20250120000000,20250120000000,20250120000000,3,1,"Cena ostatniej dost.",60.0000,7.7000,67.7000,0.0000,,0.0000,,20250120000000,0.0000,67.7000,0,0,1,3,";Maria Michalska","Szef",,0.0000,0.0000,"PLN",1.0000,,,,,0,0,0,,0.0000,,0.0000,"Polska","PL",0
+
+[ZAWARTOSC]
+1,2,,1,1,0,1,0.0000,0.0000,"szt.",1.0000,1.0000,0.0000,10.0000,10.8000,8.0000,10.0000,0.8000,10.8000,0.0000,,"towar1"
+2,2,,1,1,0,1,0.0000,0.0000,"szt.",1.0000,1.0000,0.0000,20.0000,20.0000,0.0000,20.0000,0.0000,20.0000,0.0000,,"towar2"
+3,2,,1,1,0,1,0.0000,0.0000,"szt.",1.0000,1.0000,0.0000,30.0000,36.9000,23.0000,30.0000,6.9000,36.9000,0.0000,,"towar3"
+
+[NAGLOWEK]
+"KONTRAHENCI"
+
+[ZAWARTOSC]
+0,"NOVUM","Drogeria NOVUM","Drogeria NOVUM","Sosnowiec","65-465","Kolorowa 98/3","5959960167",,"32 564-12-55",,,"info@Novum.insert.pl",,"Irena Ko³odziej","00022","00022","OP 01293",,,,,,,,"PKOBP O. w Grudzi¹dzu","10205040-5764654561315898456","Polska","PL",0
+0,"ALFA","Alfa - Tech s.c.","Alfa - Tech s.c.W³adys³aw Kozak","Wa³brzych","44-738","Mêckiego 83","5699590695",,"74 65-456-55",,,"info@alfa.insert.pl",,"Aldona WoŸniak","00023","00023","OB 1894K",,,,,,,,"PKOBP I O. w Bydgoszczy","10201462-5656565655556565455","Polska","PL",0
+0,"ERIE","Hurtownia ERIE","Hurtownia ERIE, Danuta Ko³odziejczyk","Bydgoszcz","14-622","Jagielloñska 66/22","2122189241",,"52 656-58-52",,,"info@erie.insert.pl",,"Natalia Dudek","00008","00008","GE 88290",,,,,,,,"PKOBP O. w G³ogowie","10203033-6565656565678987","Polska","PL",0
+0,"ROGALIK","Piekarnia ROGALIK","Piekarnia ROGALIK","Wroc³aw","54-572","Leœna 45","3321409289",,"71 342-45-45",,,"info@rogalik.insert.pl",,"Marian Weso³owski","00021","00021","BG 98745",,,,,,,,"PKOBP O. w Grudzi¹dzu","10205040-658987645646546","Polska","PL",0
+0,"DANUTA","Sklep przemys³owy DANUTA","Sklep przemys³owy DANUTA","£ódŸ","46-527","Piesza 26/3","8435667543",,"42 446-46-73",,,"info@danuta.insert.pl",,"Maria Michalska",,,"ZX 7643J",,,,,,,,"PKO SA I O/Wroc³aw","3213232-4546465465-7777777-545","Polska","PL",0
+
+[NAGLOWEK]
+"GRUPYKONTRAHENTOW"
+
+[ZAWARTOSC]
+"NOVUM","Podstawowa"
+"ALFA","Fabryki"
+"ERIE","Hurtownie"
+"ROGALIK","Fabryki"
+"DANUTA","Sklepy"
+
+[NAGLOWEK]
+"CECHYKONTRAHENTOW"
+
+[ZAWARTOSC]
+"NOVUM","Krajowy"
+"NOVUM","Drogeria w sieci URODA"
+"NOVUM","Du¿y market"
+"ALFA","Krajowy"
+"ALFA","Pocz¹tkuj¹cy"
+"ERIE","Zagraniczny"
+"ERIE","Hipermarket"
+"ERIE","Hurtownia"
+"ROGALIK","Krajowy"
+"ROGALIK","Pocz¹tkuj¹cy"
+"DANUTA","Du¿y market"
+"DANUTA","Krajowy"
+"DANUTA","Inny sklep"
+
+[NAGLOWEK]
+"DODATKOWEKONTRAHENTOW"
+
+[ZAWARTOSC]
+"NOVUM",0,1,0,0,0,0
+"ALFA",0,1,0,0,0,0
+"ERIE",0,1,0,0,0,0
+"ROGALIK",0,1,0,0,0,0
+"DANUTA",0,1,0,0,0,0
+
+[NAGLOWEK]
+"DATYZAKONCZENIA"
+
+[ZAWARTOSC]
+"FZ 3/2025",20250117000000
+"FZ 4/2025",20250117000000
+"FZ 5/2025",20250117000000
+"FZ 7/2025",20250117000000
+"FZ 8/2025",20250120000000
+
+[NAGLOWEK]
+"NUMERYIDENTYFIKACYJNENABYWCOW"
+
+[ZAWARTOSC]
+
+[NAGLOWEK]
+"PRZYCZYNYKOREKT"
+
+[ZAWARTOSC]
+
+[NAGLOWEK]
+"DOKUMENTYFISKALNEVAT"
+
+[ZAWARTOSC]
+
+[NAGLOWEK]
+"OPLATYDODATKOWE"
+
+[ZAWARTOSC]
+
+[NAGLOWEK]
+"WYMAGALNOSCMPP"
+
+[ZAWARTOSC]
+"FZ 3/2025",0
+"FZ 4/2025",0
+"FZ 5/2025",0
+"FZ 7/2025",0
+"FZ 8/2025",0
+
+[NAGLOWEK]
+"OPLATACUKROWA"
+
+[ZAWARTOSC]
+
+[NAGLOWEK]
+"DOKUMENTYZNACZNIKIJPKVAT"
+
+[ZAWARTOSC]
+"FZ 3/2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"FZ 4/2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"FZ 5/2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"FZ 7/2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"FZ 8/2025",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+[NAGLOWEK]
+"INFORMACJEWSTO"
+
+[ZAWARTOSC]
+
+[NAGLOWEK]
+"DATYUJECIAKOREKT"
+
+[ZAWARTOSC]
+
