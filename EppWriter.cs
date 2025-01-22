@@ -52,7 +52,7 @@ public class EppWriter(string filePath, List<ContractorXml> xmlContractors, List
     private void WriteSection(string sectionName, Action writeContent)
     {
         writer.WriteLine("[NAGLOWEK]");
-        writer.WriteLine($"\"{sectionName}\"");
+        writer.WriteLine($"{sectionName}");
         writer.WriteLine();
         writer.WriteLine("[ZAWARTOSC]");
         writeContent.Invoke();
